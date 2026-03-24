@@ -109,3 +109,22 @@ body::after {
     margin-top: 20px;
     color: hsl(0, 0%, 100%);
 }
+
+@media screen and (max-width: 768px)    {
+    body::before, 
+    body::after {
+        width: 500px;
+        height: 500px;
+    }
+    body::before {
+        top: -250px;
+        left: -150px;
+    }
+    
+    body::after {
+        bottom: -250px;
+        right: -150px;
+    }               
+    
+}
+

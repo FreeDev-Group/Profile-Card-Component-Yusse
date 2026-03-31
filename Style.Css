@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Kumbhs sans';
   background-color: hsl(185, 75%, 39%);
   display: flex;
   min-height: 100vh;
@@ -86,14 +86,14 @@ body::after {
 }
 
 .card-body h2 span {
-  color: hsl(227, 10%, 45%);
+  color: hsl(227, 10%, 46%);
   font-size: 1.2rem;
   font-weight: 400;
   margin-left: 10px;
 }
 
 .location {
-  color: hsl(227, 10%, 45%);
+  color:hsl(227, 10%, 46%);
   font-size: 0.9rem;
   margin-top: 5px;
 }
@@ -113,9 +113,10 @@ body::after {
 .card-stats p {
   font-size: 18px;
   font-weight: 700;
-  color: hsl(227, 10%, 45%);
+  color:hsl(227, 10%, 46%);
   letter-spacing: 1px;
 }
+
 
 /* Attribution */
 .attribution {
@@ -123,6 +124,7 @@ body::after {
   margin-top: 20px;
   color: hsl(0, 0%, 100%);
 }
+
 
 /* --------------------------- */
 /* RESPONSIVENESS FIXES        */

@@ -1,9 +1,10 @@
 
+### Overview 
+![Screenshot of my the project] <img src="./ReadMe image/profile card .png">
 
 
 
-### Links
-My website : https://freedev-group.github.io/Profile-Card-Component-Yusse/
+My website : https://freedev-group.github.io/Profile-Card-Component-Yusse
 
 
 
@@ -14,3 +15,6 @@ I learned the full skeleton of an HTML document, how to create a Card Component,
 
 ## Challenges*
 I still find difficult to set up the responsive design using Media Queries. I will have to imporove this in the next lessons. 
+
+## Ai collaboration 
+I used Chatgbt to help me understand more how to make pages' responsives. 
